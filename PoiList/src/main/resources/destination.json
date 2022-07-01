@@ -1,0 +1,2930 @@
+
+[
+  {
+    "cmsDestinations": [
+      {
+        "officialName": "Trattoria Casabuonocore",
+        "localizedPageName": "Trattoria Casabuonocore",
+        "completed": false,
+        "identifier": " -79157372.59073907",
+        "placeID": "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+        "geometry": {
+          "lat": 40.8339724546273,
+          "lng": 14.240452881459213
+        },
+        "price": "35€",
+        "numRating": 300,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 3,
+        "description": {
+          "plain_text": null
+        },
+        "destinationDescriptionShortType": {
+          "html": "<p>Napoli</p>"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p>Campania</p>"
+        },
+        "owner": null,
+        "category": "restaurant",
+        "opening_hours": {
+          "html": "string"
+        },
+        "faxNumber": 12344,
+        "country": "Italia"
+      },
+      {
+        "officialName": "Ristorante Antichi Sapori Partenopei",
+        "localizedPageName": "Ristorante Antichi Sapori Partenopei",
+        "completed": false,
+        "identifier": " -79157372.59073907",
+        "placeID": "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+        "geometry": {
+          "lat": 40.836180382635575,
+          "lng": 14.242941971222871
+        },
+        "price": "55€",
+        "numRating": 546,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 3,
+        "description": {
+          "plain_text": null
+        },
+        "destinationDescriptionShortType": {
+          "html": "<p>Napoli</p>"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p>Campania</p>"
+        },
+        "owner": null,
+        "category": "restaurant",
+        "opening_hours": {
+          "html": "string"
+        },
+        "faxNumber": 12344,
+        "country": "Italia"
+      },
+      {
+        "officialName": "Caserta",
+        "localizedPageName": "Caserta",
+        "completed": false,
+        "identifier": " -79157372.59073907",
+        "placeID": "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+        "geometry": {
+          "lat": 41.05466062774732,
+          "lng": 14.288312523271518
+        },
+        "numRating": 142,
+        "userPoints": 45,
+        "suggested": true,
+        "description": {
+          "plain_text": null
+        },
+        "rating": 3,
+        "destinationDescriptionShortType": {
+          "html": "<p>Roma</p>"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p>Lazio</p>"
+        },
+        "owner": null,
+        "category": "locality,political",
+        "opening_hours": {
+          "html": "string"
+        },
+        "faxNumber": 12344,
+        "country": "Italia"
+      },
+
+      {
+        "officialName": "Roma",
+        "localizedPageName": "Roma",
+        "completed": false,
+        "identifier": "-79157372.59073907",
+        "placeID": "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+        "geometry": {
+          "lat": 41.90027628287552,
+          "lng": 12.465952883444443
+        },
+        "numRating": 86,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 3,
+        "description": {
+          "plain_text": null
+        },
+        "destinationDescriptionShortType": {
+          "html": "<p>Roma</p>"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p>Lazio</p>"
+        },
+        "owner": null,
+        "category": "locality,political",
+        "opening_hours": {
+          "html": "string"
+        },
+        "faxNumber": 12344,
+        "country": "Italia"
+      },
+      {
+        "officialName": "Napoli",
+        "localizedPageName": "Napoli",
+        "completed": false,
+        "identifier": "-79157372.59073907",
+        "placeID": "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+        "geometry": {
+          "lat": 40.85173289146562,
+          "lng": 14.271763796927562
+        },
+        "numRating": 556,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 3,
+        "description": {
+          "plain_text": null
+        },
+        "destinationDescriptionShortType": {
+          "html": "<p>Napoli</p>"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p>Campania</p>"
+        },
+        "owner": null,
+        "category": "locality,political",
+        "opening_hours": {
+          "html": "string"
+        },
+        "faxNumber": 12344,
+        "country": "Italia"
+      },
+      {
+        "officialName": "Milano",
+        "localizedPageName": "Milano",
+        "completed": false,
+        "identifier": "-79157372.59073907",
+        "placeID": "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+        "geometry": {
+          "lat": 45.46295324805454,
+          "lng": 9.188373540304692
+        },
+        "numRating": 123,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 3,
+        "description": {
+          "plain_text": null
+        },
+        "destinationDescriptionShortType": {
+          "html": "<p>Milano</p>"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p>Lombardia</p>"
+        },
+        "owner": null,
+        "category": "locality,political",
+        "opening_hours": {
+          "html": "string"
+        },
+        "faxNumber": 12344,
+        "country": "Italia"
+      },
+      {
+        "officialName": "Venezia",
+        "localizedPageName": "Venezia",
+        "completed": false,
+        "identifier": " -79157372.59073907",
+        "placeID": "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+        "geometry": {
+          "lat": 45.430002755819764,
+          "lng": 12.333767689281407
+        },
+        "numRating": 5643,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 3,
+        "description": {
+          "plain_text": null
+        },
+        "destinationDescriptionShortType": {
+          "html": "<p>Venezia</p>"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p>Veneto</p>"
+        },
+        "owner": null,
+        "category": "locality,political",
+        "opening_hours": {
+          "html": "string"
+        },
+        "faxNumber": 12344,
+        "country": "Italia"
+      },
+      {
+        "officialName": "SanNicola",
+        "localizedPageName": "SanNicola",
+        "completed": false,
+        "identifier": "-79157372.59073907",
+        "placeID": "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+        "geometry": {
+          "lat": 41.05424779776908,
+          "lng": 14.32513324859537
+        },
+        "numRating": 787,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 3,
+        "description": {
+          "plain_text": null
+        },
+        "destinationDescriptionShortType": {
+          "html": "<p>SanNicola</p>"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p>Campania</p>"
+        },
+        "owner": null,
+        "category": "locality,political",
+        "opening_hours": {
+          "html": "string"
+        },
+        "faxNumber": 12344,
+        "country": "Italia"
+      },
+      {
+        "officialName": "Battipaglia",
+        "localizedPageName": "asdfasdfa",
+        "completed": false,
+        "identifier": "-79157372.59073907",
+        "placeID": "ChIJX3xWmYjgOxMRaEiG2CcCPtE",
+        "geometry": {
+          "lat": 40.6093746,
+          "lng": 14.9808362
+        },
+        "numRating": 45,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 3,
+        "description": {
+          "plain_text": "null"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "locality,political",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "Italy",
+        "images": []
+      },
+      {
+        "officialName": "Colosseum",
+        "localizedPageName": "null",
+        "completed": false,
+        "identifier": "-79157372.590739072",
+        "placeID": "ChIJrRMgU7ZhLxMRxAOFkC7I8Sg",
+        "geometry": {
+          "lat": 41.8902102,
+          "lng": 12.4922309
+        },
+        "numRating": 1234,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 2,
+        "description": {
+          "plain_text": "null"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "Italy",
+        "images": []
+      },
+      {
+        "officialName": "Sforzesco Castle",
+        "localizedPageName": "sforzesco-castle",
+        "completed": false,
+        "identifier": "null",
+        "placeID": "ChIJPXupDrb8hkcRm8JyxGbdVmU",
+        "geometry": {
+          "lat": 45.4704762,
+          "lng": 9.1793325
+        },
+        "numRating": 1223,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 2,
+        "description": {
+          "plain_text": "null"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "Italy",
+        "images": []
+      },
+      {
+        "officialName": "Osteria dell'Orsa",
+        "localizedPageName": "null",
+        "completed": false,
+        "identifier": "null",
+        "placeID": "ChIJV9LKrL3Uf0cR0QZWL9siaWg",
+        "geometry": {
+          "lat": 44.4971384,
+          "lng": 11.3474965
+        },
+        "price": "24€",
+        "numRating": 6765,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 2,
+        "description": {
+          "plain_text": "null"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "restaurant,point_of_interest,food,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "Italy",
+        "images": []
+      },
+
+
+      {
+        "officialName": "Campania",
+        "localizedPageName": "campania",
+        "completed": false,
+        "identifier": "aem_destination_377",
+        "placeID": "null",
+        "geometry": {
+          "lat": 40.85780193331604,
+          "lng": 14.267806403476483
+        },
+        "numRating": 3000,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 2,
+        "description": {
+          "plain_text": "<p>The mild climate, the richness of art and history, the love for cooking: all this makes Campania a place to be lived to the full, to be travelled on a journey of personal enrichment. A journey that can start from the sea, the undisputed king of the entir...</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "locality",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Royal Palace of Caserta",
+        "localizedPageName": "royal-palace-of-caserta",
+        "completed": false,
+        "identifier": "aem_destination_746",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.073232884542,
+          "lng": 14.327193197937076
+        },
+        "numRating": 4566,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 2,
+        "description": {
+          "plain_text": "<p>A par excellence Royal Palace and UNESCO World Heritage Site immersed in a charming park.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Herculaneum",
+        "localizedPageName": "herculaneum",
+        "completed": false,
+        "identifier": "aem_destination_739",
+        "placeID": "null",
+        "geometry": {
+          "lat": 40.80476281693565,
+          "lng": 14.347580626627343
+        },
+        "numRating": 3454,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 2,
+        "description": {
+          "plain_text": "<p>The astonishing UNESCO World Heritage Site and archaeological park is one of the most visited in Italy</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "locality",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Castel Sant'Elmo",
+        "localizedPageName": "castel-santelmo",
+        "completed": false,
+        "identifier": "aem_destination_1342",
+        "placeID": "null",
+        "geometry": {
+          "lat": 40.84445073231375,
+          "lng": 14.238895298765803
+        },
+        "numRating": 9568,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 2,
+        "description": {
+          "plain_text": "<p>The largest Mediaeval castle in Naples</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Torre Annunziata",
+        "localizedPageName": "torre-annunziata",
+        "completed": false,
+        "identifier": "aem_destination_748",
+        "placeID": "null",
+        "geometry": {
+          "lat": 40.75839507605065,
+          "lng": 14.451500648689697
+        },
+        "numRating": 455,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 2,
+        "description": {
+          "plain_text": "<p>The splendour of Oplontis - UNESCO World Heritage Site.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "locality",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Pompeii",
+        "localizedPageName": "pompeii",
+        "completed": false,
+        "identifier": "aem_destination_734",
+        "placeID": "null",
+        "geometry": {
+          "lat": 40.747545483898755,
+          "lng": 14.485179444280568
+        },
+        "numRating": 301,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 2,
+        "description": {
+          "plain_text": "<p>The rediscovered ancient city. A unique heritage of history and culture anywhere in the world.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "locality",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Emilia Romagna",
+        "localizedPageName": "emilia-romagna",
+        "completed": false,
+        "identifier": "aem_destination_374",
+        "placeID": "null",
+        "geometry": {
+          "lat": 44.602555813666754,
+          "lng": 10.457575137368073
+        },
+        "numRating": 678,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 2,
+        "description": {
+          "plain_text": "<p>A network of cities of art, small villages, seaside and mountain resorts rich in history and tradition, where you can discover the source of good living and a deep-rooted sense of hospitality. Emilia Romagna, a land of a thousand discoveries: Bologna, Pa...</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "locality",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Friuli Venezia Giulia",
+        "localizedPageName": "friuli-venezia-giulia",
+        "completed": false,
+        "identifier": "aem_destination_399",
+        "placeID": "null",
+        "geometry": {
+          "lat": 46.27270656927863,
+          "lng": 12.89731946186802
+        },
+        "numRating": 9988,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 1,
+        "description": {
+          "plain_text": "<p>Bordering with Slovenia and Austria, between the Adriatic Sea and high mountains, Friuli Venezia Giulia boasts a rich and varied heritage - the outcome of centuries of history and the merging of different peoples and cultures. Trieste still symbolizes al...</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "locality",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 111,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Bologna",
+        "localizedPageName": "Bologna",
+        "completed": false,
+        "identifier": "-79157372.59073907",
+        "placeID": "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+        "geometry": {
+          "lat": 44.50032118334901,
+          "lng": 11.33683360172451
+        },
+        "numRating": 7795,
+        "userPoints": 45,
+        "suggested": true,
+        "rating": 1,
+        "description": {
+          "plain_text": null
+        },
+        "destinationDescriptionShortType": {
+          "html": "<p>Bologna</p>"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p>Emilia-Romagna</p>"
+        },
+        "owner": null,
+        "category": "locality,political",
+        "opening_hours": {
+          "html": "string"
+        },
+        "faxNumber": 12344,
+        "country": "Italia"
+      },
+      {
+        "officialName": "Historical museum and park of Miramare Castle",
+        "localizedPageName": "historical-museum-and-park-of-miramare--castle",
+        "completed": false,
+        "identifier": "aem_destination_1344",
+        "placeID": "null",
+        "geometry": {
+          "lat": 45.70248163644446,
+          "lng": 13.71239550015587
+        },
+        "numRating": 90,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 1,
+        "description": {
+          "plain_text": "<p>A majestic noble residence overlooking the sea</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Lazio",
+        "localizedPageName": "lazio",
+        "completed": false,
+        "identifier": "aem_destination_21",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.92900091932379,
+          "lng": 12.573279383779624
+        },
+        "numRating": 3001,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 1,
+        "description": {
+          "plain_text": "<p>The region of Rome, the centre of the ancient Empire: there is testimony throughout Lazio of passing centuries and history, a crossroads of secular and profane, with different visions of the world. And different architectures, towns and works of art. St....</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "locality",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Colosseum",
+        "localizedPageName": "colosseum",
+        "completed": false,
+        "identifier": "aem_destination_728",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.89027578633874,
+          "lng": 12.492430732896192
+        },
+        "numRating": 4455,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 1,
+        "description": {
+          "plain_text": "<p>The largest amphitheatre in the world, a symbol of gladiators and Ancient Rome.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Domus Aurea",
+        "localizedPageName": "domus-aurea",
+        "completed": false,
+        "identifier": "aem_destination_730",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.89288653035575,
+          "lng": 12.493727496211552
+        },
+        "numRating": 3234,
+        "userPoints": 45,
+        "suggested": false,
+        "description": {
+          "plain_text": "<p>The imperial residence of Emperor Nero, a symbol of pomp, luxury and wealth.</p>"
+        },
+        "rating": 1,
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Roman Forum",
+        "localizedPageName": "roman-forum",
+        "completed": false,
+        "identifier": "aem_destination_729",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.89263002986577,
+          "lng": 12.485314310597182
+        },
+        "numRating": 2345,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 1,
+        "description": {
+          "plain_text": "<p>An incomparable archaeological spectacle nestled in the heart of the modern city</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Historical museum and park of Miramare Castle",
+        "localizedPageName": "historical-museum-and-park-of-miramare--castle",
+        "completed": false,
+        "identifier": "aem_destination_1344",
+        "placeID": "null",
+        "geometry": {
+          "lat": 45.70248163644446,
+          "lng": 13.71239550015587
+        },
+        "numRating": 320,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 1,
+        "description": {
+          "plain_text": "<p>A majestic noble residence overlooking the sea</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Lazio",
+        "localizedPageName": "lazio",
+        "completed": false,
+        "identifier": "aem_destination_21",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.92900091932379,
+          "lng": 12.573279383779624
+        },
+        "numRating": 4000,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 1,
+        "description": {
+          "plain_text": "<p>The region of Rome, the centre of the ancient Empire: there is testimony throughout Lazio of passing centuries and history, a crossroads of secular and profane, with different visions of the world. And different architectures, towns and works of art. St....</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "locality",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Colosseum",
+        "localizedPageName": "colosseum",
+        "completed": false,
+        "identifier": "aem_destination_728",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.89027578633874,
+          "lng": 12.492430732896192
+        },
+        "numRating": 2223,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 1,
+        "description": {
+          "plain_text": "<p>The largest amphitheatre in the world, a symbol of gladiators and Ancient Rome.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Domus Aurea",
+        "localizedPageName": "domus-aurea",
+        "completed": false,
+        "identifier": "aem_destination_730",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.89288653035575,
+          "lng": 12.493727496211552
+        },
+        "numRating": 300,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 1,
+        "description": {
+          "plain_text": "<p>The imperial residence of Emperor Nero, a symbol of pomp, luxury and wealth.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Roman Forum",
+        "localizedPageName": "roman-forum",
+        "completed": false,
+        "identifier": "aem_destination_729",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.89263002986577,
+          "lng": 12.485314310597182
+        },
+        "numRating": 3002,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>An incomparable archaeological spectacle nestled in the heart of the modern city</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Borghese Gallery",
+        "localizedPageName": "borghese--gallery",
+        "completed": false,
+        "identifier": "aem_destination_754",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.91433003639357,
+          "lng": 12.49233731700925
+        },
+        "numRating": 200,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The gallery of wonders right in the heart of the capital</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Castel Sant'Angelo National Museum",
+        "localizedPageName": "castel-santangelo-national-museum",
+        "completed": false,
+        "identifier": "aem_destination_1183",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.90307913000945,
+          "lng": 12.466276041952412
+        },
+        "numRating": 7865,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>A lively venue rich in past, present and future stories</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Palatine Hill",
+        "localizedPageName": "palatine-hill",
+        "completed": false,
+        "identifier": "aem_destination_731",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.89000945290319,
+          "lng": 12.487337533118373
+        },
+        "numRating": 4566,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The home to aristocratic residences and the palaces of great emperors</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Archaeological Park of Ostia Antica",
+        "localizedPageName": "archaeological-park-of-ostia-antica",
+        "completed": false,
+        "identifier": "aem_destination_1334",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.7558706392774,
+          "lng": 12.291596412004765
+        },
+        "numRating": 2345,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>One of the most extensive archaeological sites in the world not far from Rome.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Colosseo",
+        "localizedPageName": "colosseo",
+        "completed": false,
+        "identifier": "null",
+        "placeID": "ChIJrRMgU7ZhLxMRxAOFkC7I8Sg",
+        "geometry": {
+          "lat": 41.8902102,
+          "lng": 12.4922309
+        },
+        "numRating": 6543,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "null"
+        },
+        "destinationDescriptionShort": {
+          "html": "<p>Il&nbsp;Colosseo,&nbsp;situato nel centro della città di&nbsp;Roma, è il più grande&nbsp;anfiteatro&nbsp;romano&nbsp;del mondo, in grado di contenere un numero di spettatori stimato tra 50 000 e 87 000. Inserito nel&nbsp;1980&nbsp;nella lista dei&nbsp;Patrimoni dell'umanità&nbsp;dell'UNESCO.</p>\n"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p>L'anfiteatro fu edificato in&nbsp;epoca Flavia&nbsp;su un'area al limite orientale del&nbsp;Foro Romano. La sua costruzione, iniziata da&nbsp;Vespasiano&nbsp;nel 70 d.C., fu conclusa da&nbsp;Tito, che lo inaugurò il 21 Aprile nell'80&nbsp;d.C. Ulteriori modifiche vennero apportate durante l'impero di&nbsp;Domiziano, nel 90. L'edificio forma un'ellisse di 527 m di perimetro, con assi che misurano 187,5 e 156,5 m. L'arena all'interno misura 86 × 54 m, con una superficie di 3 357 m². L'altezza attuale raggiunge 48,5 m, ma originariamente arrivava a 52 m. La struttura esprime con chiarezza le concezioni architettoniche e costruttive romane della prima&nbsp;Età imperiale, basate rispettivamente sulla linea curva e avvolgente offerta dalla pianta ellittica e sulla complessità dei sistemi costruttivi. Archi e volte sono concatenati tra loro in un serrato rapporto strutturale.</p>\n<p>Il nome &quot;Colosseo&quot; si diffuse solo nel&nbsp;Medioevo, e deriva dalla deformazione popolare dell'aggettivo latino &quot;colosseum&quot; (traducibile in &quot;colossale&quot;, come appariva nell'Alto Medioevo&nbsp;tra le casette a uno o due piani)&nbsp;o, più probabilmente, dalla vicinanza della&nbsp;colossale statua acrolitica di Nerone&nbsp;che sorgeva nei pressi.<sup>[4]</sup>&nbsp;Presto l'edificio divenne simbolo della città imperiale, espressione di un'ideologia in cui la volontà celebrativa giunge a definire modelli per lo svago e il divertimento del popolo.</p>\n<p>Anticamente era usato per gli spettacoli&nbsp;gladiatori&nbsp;e altre manifestazioni pubbliche (spettacoli di caccia,&nbsp;battaglie navali, rievocazioni di battaglie famose e drammi basati sulla&nbsp;mitologia&nbsp;classica). La tradizione che lo vuole luogo di martirio di cristiani è infondata.&nbsp;Non più in uso dopo il&nbsp;VI secolo, l'enorme struttura venne riutilizzata nei secoli, anche come cava di materiale. Oggi è un simbolo della città di Roma e una delle maggiori attrazioni turistiche sotto forma di&nbsp;monumento archeologico&nbsp;regolarmente visitabile.</p>\n<p>Nel 2012 le condizioni della struttura del Colosseo destarono preoccupazione, in seguito a studi che avevano individuato oltre 3.000 lesioni e un esteso stato fessurativo.&nbsp;Inoltre venne rilevata un'inclinazione di 40&nbsp;cm della struttura, probabilmente a causa di un cedimento della platea di fondazione su cui poggiava.</p>\n<p>Nel 2018 il circuito archeologico Colosseo,&nbsp;Foro Romano&nbsp;e&nbsp;Palatino&nbsp;ha ottenuto 7&nbsp;650&nbsp;519 visitatori, risultando il secondo sito museale statale italiano più visitato (il primo tra quelli a pagamento), alle spalle del&nbsp;Pantheon.</p>\n"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "Italia",
+        "images": []
+      },
+      {
+        "officialName": "Roma",
+        "localizedPageName": "roma",
+        "completed": false,
+        "identifier": "null",
+        "placeID": "ChIJu46S-ZZhLxMROG5lkwZ3D7k",
+        "geometry": {
+          "lat": 41.9027835,
+          "lng": 12.4963655
+        },
+        "numRating": 400,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "null"
+        },
+        "destinationDescriptionShort": {
+          "html": "<p style=\"text-align: center;\">Roma, capitale dell’Italia, è una grande città cosmopolita con una storia artistica, architettonica e culturale.</p>\n"
+        },
+        "destinationDescriptionLong": {
+          "html": "<p style=\"text-align: center;\">Le antiche rovine come il Foro e il Colosseo testimoniano la potenza dell’antico Impero romano. Nella Città del Vaticano, sede della Chiesa Cattolica, si trovano la Basilica di San Pietro e i Musei Vaticani, che ospitano capolavori come la Cappella Sistina affrescata da Michelangelo</p>\n"
+        },
+        "owner": "null",
+        "category": "locality,political",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "Italia",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Baths of Caracalla",
+        "localizedPageName": "baths-of-caracalla",
+        "completed": false,
+        "identifier": "aem_destination_1381",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.879037201478056,
+          "lng": 12.49244007055406
+        },
+        "numRating": 400,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The largest spa complex in Rome</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Hadrian's Villa",
+        "localizedPageName": "hadrians-villa",
+        "completed": false,
+        "identifier": "aem_destination_749",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.94286462111931,
+          "lng": 12.774431184336862
+        },
+        "numRating": 20,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>An enormous historical and archaeological heritage immersed in nature.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Scaliger Castle of Sirmione",
+        "localizedPageName": "scaliger-castle-of-sirmione",
+        "completed": false,
+        "identifier": "aem_destination_1423",
+        "placeID": "null",
+        "geometry": {
+          "lat": 45.492374268223415,
+          "lng": 10.608402199888083
+        },
+        "numRating": 70,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The jewel of Lake Garda.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Ducal Palace of Mantua",
+        "localizedPageName": "ducal-palace-of-mantua",
+        "completed": false,
+        "identifier": "aem_destination_1345",
+        "placeID": "null",
+        "geometry": {
+          "lat": 45.16027892717598,
+          "lng": 10.798805270548959
+        },
+        "numRating": 7876,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The largest architectural museum complex in Italy and a UNESCO World Heritage Site</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Pinacoteca di Brera",
+        "localizedPageName": "pinacoteca-di-brera",
+        "completed": false,
+        "identifier": "aem_destination_1435",
+        "placeID": "null",
+        "geometry": {
+          "lat": 45.471955910690596,
+          "lng": 9.187813829447768
+        },
+        "numRating": 8965,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The masterpieces of Venetian, Lombard and Tuscan masters of art in the magical setting of Palazzo di Brera.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "National Gallery of the Marche",
+        "localizedPageName": "national-gallery-of-the-marche",
+        "completed": false,
+        "identifier": "aem_destination_1422",
+        "placeID": "null",
+        "geometry": {
+          "lat": 43.72438220227394,
+          "lng": 12.63679872212703
+        },
+        "numRating": 53,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>Renaissance Art in a magical and evocative setting</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Royal Museums of Turin",
+        "localizedPageName": "royal-museums-of-turin",
+        "completed": false,
+        "identifier": "aem_destination_761",
+        "placeID": "null",
+        "geometry": {
+          "lat": 45.07291923264298,
+          "lng": 7.686144297776869
+        },
+        "numRating": 5677,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>An unforgettable experience of art, history, culture and nature</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Egyptian Museum",
+        "localizedPageName": "egyptian-museum",
+        "completed": false,
+        "identifier": "aem_destination_736",
+        "placeID": "null",
+        "geometry": {
+          "lat": 45.068512930069446,
+          "lng": 7.684325555608898
+        },
+        "numRating": 320,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>&#34;The road to Memphis and Thebes passes through Turin&#34; (Jean-François Champollion)</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Castel del Monte",
+        "localizedPageName": "castel-del-monte",
+        "completed": false,
+        "identifier": "aem_destination_1278",
+        "placeID": "null",
+        "geometry": {
+          "lat": 41.084770609863234,
+          "lng": 16.270945151855898
+        },
+        "numRating": 88,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The masterpiece of Mediaeval architecture &amp; UNESCO World Heritage Site</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Vasari Corridor",
+        "localizedPageName": "vasari-corridor",
+        "completed": false,
+        "identifier": "aem_destination_700",
+        "placeID": "null",
+        "geometry": {
+          "lat": 43.76831602538854,
+          "lng": 11.253744235858257
+        },
+        "numRating": 7986,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>Seeing Florence from another point of view.</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Boboli Gardens",
+        "localizedPageName": "boboli-gardens",
+        "completed": false,
+        "identifier": "aem_destination_704",
+        "placeID": "null",
+        "geometry": {
+          "lat": 43.762734136722365,
+          "lng": 11.248889121439738
+        },
+        "numRating": 4544,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The par excellence Italian garden</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Pitti Palace",
+        "localizedPageName": "pitti-palace",
+        "completed": false,
+        "identifier": "aem_destination_705",
+        "placeID": "null",
+        "geometry": {
+          "lat": 43.76535471015597,
+          "lng": 11.25002956483379
+        },
+        "numRating": 878,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The historic Palace in the heart of Florence</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Uffizi Gallery",
+        "localizedPageName": "uffizi-gallery",
+        "completed": false,
+        "identifier": "aem_destination_682",
+        "placeID": "null",
+        "geometry": {
+          "lat": 43.76790952282068,
+          "lng": 11.255342990836354
+        },
+        "numRating": 67654,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The museum of XIV century and Renaissance art that never ceases to astonish</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "tourist_attraction,point_of_interest,establishment",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          }
+        ]
+      },
+      {
+        "officialName": "Umbria",
+        "localizedPageName": "umbria",
+        "completed": false,
+        "identifier": "aem_destination_482",
+        "placeID": "null",
+        "geometry": {
+          "lat": 43.05178129983579,
+          "lng": 12.322488415793057
+        },
+        "numRating": 454,
+        "userPoints": 45,
+        "suggested": false,
+        "rating": 5,
+        "description": {
+          "plain_text": "<p>The green heart of central Italy, a land where there are still remains of Etruscan settlements, iconic towns such as Gubbio and spiritual destinations such as Assisi, all in a luxuriant natural context. Umbria boasts the highest number of Mediaeval villa...</p>"
+        },
+        "destinationDescriptionShort": {
+          "html": "null"
+        },
+        "destinationDescriptionLong": {
+          "html": "null"
+        },
+        "owner": "null",
+        "category": "locality",
+        "openingHours": {
+          "html": "null"
+        },
+        "faxNumber": 123,
+        "country": "null",
+        "images": [
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+          {
+            "__typename": "ImageRef",
+            "_publishUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+          },
+
+          {
+            "officialName": "Nannarella, Osteria, Roma Trastevere",
+            "localizedPageName": "nannarella",
+            "completed": false,
+            "identifier": null,
+            "placeID": "ChIJ8y0ciOhhLxMRlLqxufgPniE",
+            "geometry": {
+              "lat": 41.8889194,
+              "lng": 12.4707297
+            },
+            "numRating": 2434,
+            "rating": 3,
+            "userPoints": 45,
+            "price": "15€",
+            "suggested": true,
+            "description": {
+              "plaintext": null
+            },
+            "destinationDescriptionLong": {
+              "html": null
+            },
+            "destinationDescriptionShort": {
+              "html": null
+            },
+            "owner": null,
+            "category": "restaurant,food,point_of_interest,establishment",
+            "openingHours": {
+              "html": null
+            },
+            "faxNumber": null,
+            "country": "Italia",
+            "images": [
+              {
+                "__typename": "ImageRef",
+                "_publishURl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+
+              }
+            ]
+          },
+          {
+            "officialName": "Lo Sno",
+            "localizedPageName": "ristorante camogli",
+            "completed": false,
+            "identifier": null,
+            "placeID": "ChIJ7yYbo8lf0xIRveaw_EqAsy0",
+           "geometry": {
+             "lat": 44.3505225,
+             "lng": 9.152800599999999
+           },
+             "numRating": 244,
+            "rating": 4,
+            "userPoints": 45,
+            "price": "15€",
+            "suggested": true,
+            "description": {
+              "plaintext": "focaccia"
+            },
+            "destinationDescriptionLong": {
+              "html": null
+            },
+            "destinationDescriptionShort": {
+              "html": null
+            },
+            "owner": null,
+            "category": "restaurant,point_of_interest,food,establishment",
+            "openingHours": {
+              "html": null
+            },
+            "faxNumber": null,
+            "country": "Italia",
+            "images": [
+              {
+                "__typename": "ImageRef",
+                "_publishURl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+
+              }
+            ]
+          },
+          {
+            "officialName": "La Pace del Palato",
+            "localizedPageName": "liguria",
+            "completed": null,
+            "identifier": "aem_destination_358uyfiufyiutdf",
+            "placeID": "ChIJgzoHT0VgLxMRMcsZD8VsYZU",
+            "geometry": {
+              "lat": 44.41329528371574,
+              "lng": 8.932432676183007
+            },
+            "numRating": 244,
+            "rating": 3,
+            "userPoints": 45,
+            "price": "20€",
+            "suggested": false,
+            "description": {
+              "plaintext": "Chilometri di coste prima e dopo Genova, antica e gloriosa Repubblica Marinara, oggi snodo di merci e culture. Con il porto ed il suo abitato ai piedi dell’Appennino e a picco sul mare, il capoluogo ha un centro storico caratterizzato dai carruggi, dedalo di stretti vicoli tipici dei centri liguri. La Liguria è una destinazione perfetta per tutti, con proposte di relax per vacanze tranquille o di pura adrenalina, per chi cerca esperienze mozzafiato. \n A togliere il respiro è la bellezza dei borghi marinari distribuiti sulle riviere di levante e di ponente, sospesi su scogliere tra mare e cielo in insenature e baie incantevoli, come Portofino e le Cinque Terre. Luoghi iconici entrati nell’immaginario collettivo e realtà tutte da scoprire.\n Sentieri e percorsi che si affacciano lungo il promontorio ligure, sono la meta perfetta per chi è in cerca di un contatto autentico con la natura e le sue bellezze."
+            },
+            "destinationDescriptionLong": {
+              "html": null
+            },
+            "destinationDescriptionShort": {
+              "html": "<p>Chilometri di coste prima e dopo Genova, antica e gloriosa Repubblica Marinara, oggi snodo di merci e culture. Con il porto ed il suo abitato ai piedi dell’Appennino e a picco sul mare, il capoluogo ha un centro storico caratterizzato dai carruggi, dedalo di stretti vicoli tipici dei centri liguri. La Liguria è una destinazione perfetta per tutti, con proposte di relax per vacanze tranquille o di pura adrenalina, per chi cerca esperienze mozzafiato.<br>\nA togliere il respiro è la bellezza dei borghi marinari distribuiti sulle riviere di levante e di ponente, sospesi su scogliere tra mare e cielo in insenature e baie incantevoli, come Portofino e le Cinque Terre. Luoghi iconici entrati nell’immaginario collettivo e realtà tutte da scoprire.<br>\nSentieri e percorsi che si affacciano lungo il promontorio ligure, sono la meta perfetta per chi è in cerca di un contatto autentico con la natura e le sue bellezze.</p>\n"
+            },
+            "owner": null,
+            "category": "restaurant,point_of_interest,food,establishment",
+            "openingHours": {
+              "html": null
+            },
+            "faxNumber": null,
+            "country": null,
+            "images": [
+              {
+                "__typename": "ImageRef",
+                "_publishURl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+
+              }
+            ]
+          },
+
+          {
+            "officialName": "Hotel Lazio",
+            "localizedPageName": "page",
+            "completed": false,
+            "identifier": null,
+            "placeID": "ChIJNRhgO6FhLxMRjrk8WlFc1lw",
+            "geometry": {
+              "lat": "41.902861",
+              "lng": "12.502223"
+            },
+
+            "numRating": 244,
+            "rating": 3,
+            "userPoints": 45,
+            "price": "56€",
+            "suggested": false,
+            "description": {
+              "plaintext": null
+            },
+            "destinationDescriptionLong": {
+              "html": null
+            },
+            "destinationDescriptionShort": {
+              "html": null
+            },
+            "owner": null,
+            "category": "lodging,point_of_interest,establishment",
+            "openingHours": {
+              "html": null
+            },
+            "faxNumber": null,
+            "country": "Italia",
+            "images": [
+              {
+                "__typename": "ImageRef",
+                "_publishURl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+
+              }
+            ]
+          },
+          {
+            "officialName": "B&B miccoli",
+            "localizedPageName": "Taranto",
+            "completed": null,
+            "identifier": null,
+            "placeID": "ChIJQzR8V1P5RhMRROuiF_SZCX4",
+            "geometry": {
+              "lat": "40.536876",
+              "lng": "17.4203669"
+            },
+
+            "numRating": 244,
+            "rating": 3,
+            "userPoints": 45,
+            "price": "20€",
+            "suggested": true,
+            "description": {
+              "plaintext": "Descrizione 1"
+            },
+            "destinationDescriptionLong": {
+              "html": "<p>Long 1</p>\n"
+            },
+            "destinationDescriptionShort": {
+              "html": "<p>Short 1&nbsp;&nbsp;&nbsp;&nbsp;</p>\n"
+            },
+            "owner": null,
+            "category": "lodging,point_of_interest,establishment",
+            "openingHours": {
+              "html": null
+            },
+            "faxNumber": null,
+            "country": "Italia",
+            "images": [
+              {
+                "__typename": "ImageRef",
+                "_publishURl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+
+              },
+              {
+                "__typename": "ImageRef",
+                "_publishURl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYlisZm5ptXfzaABzEGYqFQRPaD0DkvYFgA&usqp=CAU"
+
+              }
+            ]
+          }
+
+
+
+
+        ]
+      }
+    ]
+  }
+]
