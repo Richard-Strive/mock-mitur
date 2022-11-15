@@ -1,25 +1,31 @@
 const express = require("express");
-const JSZip = require('jszip');
+const admz = require('adm-zip')
 const fs = require('fs');
 const route = express.Router();
 
 // PERSONAL PROFILE INFOS
 route.get("/csv", (req, res) => {
   try {
-    const csvData = fs.readFileSync('sample.csv');
-
-    zip.file("CSVFile.csv", csvData);
-
-    zip.generateNodeStream({ type: 'nodebuffer', streamFiles: true })
-        .pipe(fs.createWriteStream('sample.zip'))
-        .on('finish', function () {
-            console.log("sample.zip written.");
-        });
-
-    const data = zip.toBuffer();
-
-    const file_after_download = 'the_forksample.zip';
-
+    var to_zip = fs.readdirSync(__dirname+'/'+'upload_data')
+    // res.sendFile(__dirname+'/upload_data/'+'sample.csv')
+    var zp = new admz();
+    for(var k=0 ; k<to_zip.length ; k++){
+      zp.addLocalFile(__dirname+'/'+'upload_data'+'/'+to_zip[k])
+  }
+    // here we assigned the name to our downloaded file!
+    const file_after_download = 'the_fork_sample_file.zip';
+  
+    // toBuffer() is used to read the data and save it
+    // for downloading process!
+    const data = zp.toBuffer();
+      
+  
+    // this is the code for downloading!
+    // here we have to specify 3 things:
+        // 1. type of content that we are downloading
+        // 2. name of file to be downloaded
+        // 3. length or size of the downloaded file!
+  
     res.set('Content-Type','application/octet-stream');
     res.set('Content-Disposition',`attachment; filename=${file_after_download}`);
     res.set('Content-Length',data.length);
